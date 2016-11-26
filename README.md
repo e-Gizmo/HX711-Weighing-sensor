@@ -7,4 +7,4 @@
 Wiring Diagram
 ------
 
-![Imgur](http://i.imgur.com/6f6SSef.png)
+![Imgur](http://i.imgur.com/CLMvAIn.png)
